@@ -84,7 +84,7 @@ README.md
 <img width="1207" height="332" alt="Screenshot (1202)" src="https://github.com/user-attachments/assets/bf7edf77-ca47-46be-867c-ea3e22de07bb" />
 - Positional Encoding Heatmap
 <img width="740" height="318" alt="image" src="https://github.com/user-attachments/assets/d49a429b-0804-45d3-bf45-0b0a4012ec2a" />
-- Attention Heatmaps (All 8 Heads)
+- Attention Heatmaps
 <img width="1087" height="463" alt="image" src="https://github.com/user-attachments/assets/1394caca-8f7f-4de2-b079-c681931bafd7" />
 - Confusion Matrix
 <img width="412" height="366" alt="image" src="https://github.com/user-attachments/assets/f32a04c4-cc80-4dda-820e-e4bf4b50e43a" />
