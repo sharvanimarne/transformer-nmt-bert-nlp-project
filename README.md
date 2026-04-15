@@ -48,8 +48,8 @@ This project consists of two major parts:
 ---
 
 ## 📂 Project Structure
-├── transformer_bert_nlp.py # Complete implementation
-├── README.md
+transformer_bert_nlp.py # Complete implementation
+README.md
 
 ---
 
